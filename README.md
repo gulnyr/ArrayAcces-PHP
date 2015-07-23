@@ -1,2 +1,2 @@
-# ArrayAcces-PHP
-Учимся писать интерфейс ArrayAcces
+# ArrayAccess-PHP
+Учимся писать интерфейс ArrayAccess
